@@ -79,3 +79,14 @@ Someone has already thought of you and your concerns.  'space-around' puts space
 which puts an even amount of space on both sides of each element.
 
 Keep in mind the setting of 'flex-direction' when using 'justify-content' as it will affect how the content gets placed
+
+						Flex-Wrap
+						
+'flex-wrap'
+A delicious wrap made with Turkey, Bacon, Tomatoe, Colby-Jack cheese, Jalapenos and peppercinis all covered in a chipotle aioli sauce and topped with crunchy corn chips.  
+no that's not 'flex-wrap' it is lunch time and i am getting quite hungry
+#container{
+	flex-wrap: wrap;
+}
+will maintain the size of each element no matter what the size of the container is but it will move the elements in a fashion that they all fit within the container whilst keeping their original size perserved.  
+	There is also 'wrap-reverse' and 'nowrap' incase you have already had lunch
