@@ -90,3 +90,8 @@ no that's not 'flex-wrap' it is lunch time and i am getting quite hungry
 }
 will maintain the size of each element no matter what the size of the container is but it will move the elements in a fashion that they all fit within the container whilst keeping their original size perserved.  
 	There is also 'wrap-reverse' and 'nowrap' incase you have already had lunch
+	
+						Align-Items
+
+'align-items' will align the items along the X axis
+and you can choose from options like 'start' 'end' 'flex-start' 'flex-end' 'center' 'baseline' which are all pretty self explanatory
